@@ -1,0 +1,5 @@
+#Variables that contain the user credentials to access twitter api
+ACCESS_TOKEN ="1047019704601194498-F6ovmQ7MoDqn3kkuBnRT1l9uOeezpB"
+ACCESS_TOKEN_SECRET ="bEFMHXHHCRWR8L0jN2b3llPLRh6VY83Xqh4zayUpsKaYf"
+CONSUMER_KEY = "h1fCT6NemOHCg3Fhtw20BVegq"
+CONSUMER_SECRET = "lljsNFfwIJv0nzKXrSKLygfZ1HxY0ZbumxbMUGUYTZCYOe5P7l"
